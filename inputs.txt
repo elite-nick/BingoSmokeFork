@@ -1,0 +1,156 @@
+y CAACAgIAAxkBAAEKU79lCEboXOUCPbZhcH4YfhZwCNy6sgACZjIAAhWAuUkAAVJBE2eSHCUwBA
+y CAACAgIAAxkBAAEKU8NlCEeG4fPUQxcnWZu0AAHmWHuoRpgAAhwyAAIZ1cBJERvp1MApTOMwBA
+y CAACAgIAAxkBAAEKU8VlCEeUUzIbmTH5l3QypLFHDOndDgACXi8AAr30wEmrb1_aLY_KnjAE
+y CAACAgIAAxkBAAEKU8dlCEedqcQ94bLKhWy7XA9JTFKbRQACKjkAAq2XwEn37LxSJVGkvzAE
+y CAACAgIAAxkBAAEKU8llCEeiM61CFjIFX-3s2rl1AAG2v5EAAvUsAAIwYrhJKxT8f0bUxVYwBA
+y CAACAgIAAxkBAAEKU8tlCEertChASOjad1FA8FcJ8_2IfgAC8jEAAtIywEke8hwSn9XlMDAE
+y CAACAgIAAxkBAAEKU81lCEexL7XpOsB47QzPozl-MnPBsQACtjUAAjUiwUmsEk_Zn4rS0zAE
+y CAACAgIAAxkBAAEKU89lCEe4cfiRgbQlHjaOGW-bkU5JeQACkzEAAoJdwEl4T5jDZtr_jTAE
+y CAACAgIAAxkBAAEKU9FlCEe-QWZn-hN8LO7jpugNq0zYzgACBzgAAvOUwUlYFszIJlqMXTAE
+y CAACAgIAAxkBAAEKU9NlCEfG-IzT6ppc6D35sEAjwFAYRQAC0y8AAkmywElf5z2SSBg4ITAE
+y CAACAgIAAxkBAAEKU9VlCEfOVvFQk-jo52DMntGrxX9cBgACYjQAAqzAuUmBlt29h6m0oTAE
+y CAACAgIAAxkBAAEKU9hlCEfVQoHyT3kPEtxvEW9NTQOEIQACcjQAAulxwEm0r7CtYV5UtzAE
+y CAACAgIAAxkBAAEKU9tlCEfcoSY-LZeqfSCUZrLumBNNlQACrjMAAh3owUnRQFU3nqyPLjAE
+y CAACAgIAAxkBAAEKU91lCEfi282mfejHQ6jj7mpq2e-pqgACRzEAAiAGwEnAmaDR3x6XaDAE
+y CAACAgIAAxkBAAEKU-FlCEfr4GvzWHLgxTjBoduj9NMmFwACCzQAApMkwUkBXUX5J2Cb7zAE
+y CAACAgIAAxkBAAEKU-NlCEfxlwTW53bG0MmNv_7tcXX1gQACHzEAAv5FuUnvugkKt7k53zAE
+y CAACAgIAAxkBAAEKU-VlCEf26Efb8IT-Kbbn0MH0uJ1r7gACyysAAkQSwUkjLAmr77_qBzAE
+y CAACAgIAAxkBAAEKU-dlCEf87HTgrjGTbENag2amgbCATQACMDMAAvoDwUnnj-XygtPsSDAE
+y CAACAgIAAxkBAAEKU-llCEgBJe8s2V9Ls4fs8g5K9RJE-gACYjQAAlpewEl1b9ujpHy8AjAE
+y CAACAgIAAxkBAAEKU-tlCEgH-O1_48miJXWRsZf5iuMiugACci4AAomPwEmT9ddY2tom0jAE
+y CAACAgIAAxkBAAEKU-9lCEgUeMIGnc0L2WT7055umnLt8wACwjEAAkM-wUloiSNPKH51dzAE
+y CAACAgIAAxkBAAEKU_FlCEgZmHR43sf4g_W6HJt6EIHk6QAC_C0AAotQwUl4qPO33mxmcTAE
+y CAACAgIAAxkBAAEKU_NlCEgfOxHvRUZwOp9lGVXHVy5oYQACrTAAAuJawUkwZUkbe4XiuDAE
+y CAACAgIAAxkBAAEKU_VlCEgmmUB3mq8wC284saSr-PrH9wACRjMAAj8EwUkeqd1vxBLVlzAE
+y CAACAgIAAxkBAAEKU_dlCEgriFSjX54N9EVJz6fQRd8rjAAC8zUAAuW3wElFEVcZT0lixjAE
+y CAACAgIAAxkBAAEKU_llCEgxRGvuwz8xlFzfyCVO-aZIzQAC-y4AAjGVwUk8oMG0LNmhsTAE
+y CAACAgIAAxkBAAEKU_tlCEg2gMcIhsN8lcJ73PogRuPPjAACRDEAAl7wwUlslZgqJ_ltdzAE
+s CAACAgIAAxkBAAEBG95lCKLrCui9plNgN_Yv4Sl0HEQzUgACVBkAAp8xEEjo1NTYRa6rWjAE
+s CAACAgIAAxkBAAEBG-RlCKPWGk4HdyBW5rxjBw1K1doUQgACphYAAvaUGEj5zWBPCrId8TAE
+s CAACAgIAAxkBAAEBG-ZlCKPwmlOZ-SFvPP2l6Y6-JgJnKwAC_x0AAk_70UgJ1mny8rATXjAE
+s CAACAgIAAxkBAAEBG-hlCKQIgMBGKaHWHclgfqFyBFDSzQAC7hkAAjfBKEsD7BAG2qRQ3DAE
+s CAACAgIAAxkBAAEBG-plCKQh5ugodQX4V-U3PgZK3k791QAC7hkAAge_EUiRPvb4h-ZDzzAE
+s CAACAgIAAxkBAAEBG-xlCKQnGa_u5cZhptS_Ok1p623VhgACshoAAsc-EEgFr8BVleA1wjAE
+s CAACAgIAAxkBAAEBG-5lCKRonW9t1di35qxd4zTI5N1N-AACBxkAAs0xEEghvxdEJ73qJDAE
+s CAACAgIAAxkBAAEBG_ZlCKS6MOTNM3GmsHC6iTVsTgZ3pAACoBgAAifisEuikY5SzzQRFjAE
+s CAACAgIAAxkBAAEBmaFlONYRPZkfE8VesOlK9qJVWjpd2gACyBMAAtwt4Us5Ad6Pe8dBUTAE
+s CAACAgIAAxkBAAEBmZ1lONX-OvH8wG0rqxiSan6QrUSFsAACDhIAAgiS4EhOkmgesQAB6LEwBA
+s CAACAgIAAxkBAAEKpSBlQLHB2QzncNOhJ0rFZEeKrnuTggACYxAAAhDR6EvJRhXfqdzyCjME
+s CAACAgIAAxkBAAEKpSJlQLHEIZBPUIJvjNU_1qZjR0JMBwAC8DMAAoKJkEprJ-lvHLug6jME
+d CAACAgIAAxkBAAEBG_hlCKTbsoTMmVC5lhthK0VjnDF7-gACXBsAAk7mMUt6-B8hxNj7MzAE
+n CAACAgIAAxkBAAEBSdNlG9t0lfTQ4ElnB8WvWt7pemWR-QACoxIAAqp5IEsNePw5S7rddjAE
+n CAACAgIAAxkBAAEBZn5lJnhx0qauM4fXpTpNFLVV3JCKngACZAEAAj0N6ARBolrW32nLJTAE
+h CAACAgIAAxkBAAEKpSRlQLJ5pN5ZQO1DqKcAAQfNzV4VhH4AAmABAAI9DegEPvAculq5oJIzBA
+n CAACAgQAAxkBAAEKpS1lQLPCU9uIP1ixgdlwv_zLj5fwmgACcwgAAptKUFJYF3zNEsOuSzME
+n CAACAgQAAxkBAAEKpS9lQLPRqz0Y_5t3qEK7WEhouOGFdAACQQEAAqghIQavZsYbbe5LizME
+n CAACAgQAAxkBAAEKpTFlQLPfE5UPrIU0UWg4AZP5ZxrZIQACUgEAAqghIQa9sh9fx49NrDME
+n CAACAgIAAxkBAAEBxV9lQ0fQOtU46mEwsp_SXgxIqtIYtAACAiMAAo_nWElYy3Lbq7yfMTME
+n CAACAgIAAxkBAAEBxWFlQ0fq8nDu9I7p1rXhDQ32wTy3uQACKyMAApsNgUmoUZGH5pou2zME
+n CAACAgIAAxkBAAEBxWNlQ0f3hag6Bl8Ky0qm4Rs8HPxtOgACfyIAAuO8gEk74WQdUhW95zME
+n CAACAgIAAxkBAAEBymdlROGwcVrrDiKGDOoQ7bJAh5DqTgAC2x8AAp__QEgrNgjn50SsZzME
+n CAACAgIAAxkBAAEBymllROG-LNzDntFsX0xnCWTIziXUQwACNzMAAhfFaUpLGMciRIeyWzME
+h CAACAgIAAxkBAAEB_x5lVdn8pVzf0Up6miDciRvJqHJKJQACIgADKA9qFBEx-ROlx0RXMwQ
+h CAACAgIAAxkBAAEB_yBlVdoL-UlG4kpBRO3BCHEQ-qFCAANiAQACPQ3oBBvmwIFyEW94MwQ
+h CAACAgIAAxkBAAEB_yJlVdoO9NuRCe6MtJQWc0Kdy-vA3AACbQEAAj0N6AQD0FG5NFLEwzME
+h CAACAgQAAxkBAAEB_yRlVdofOOpVtJZRRZWPCsvNr3qHegACMgEAAqghIQZ4LmzPtHHGZDME
+h CAACAgQAAxkBAAEB_yZlVdok3OoXMNsGXaLSU83LHcEogwACKwEAAqghIQaOYVogqCR7WDME
+a Легко вставать, когда ты не ложился,ауффф!!!
+a Расстояний не надо бояться, надо бояться проезжать эти расстояния на машине Сереги.
+a Иногда жизнь — это жизнь, а ты в ней иногда,ауффф!!!
+a Если в дверь не постучаться, ее никогда не откроют,ауффф!!!
+a Запомните, а то забудете,ауффф!!!
+a Брат, у настоящего волка круг друзей небольшой, но у каждого в этом кругу большой.
+a Когда волк на тебя смотрит — это значит, что он тебя видит,ауффф!!!
+a Легкой бывает только легкая дорога. Тяжелая дорога всегда трудна,ауффф!!!
+a Жизнь — это как рюкзак загруженный пивом. Чем больше пьешь пива, тем легче тебе идти…,ауффф!!!
+a Можна кинуть камень в волка,но не волка в камень,ауффф!!!
+a Если волк молчит, то лучше его не перебивать,ауффф!!!
+r Есть два стула, на одном пики точены, на другом хуи дрочены, на какой сядешь, на какой мать посадишь?Ответ: Возьму пики точены, срублю хуи дрочены, сам сяду и мать посажу.Ответ №2: Сам на пики сяду, мать на колени посажу.
+r Ты летишь на парашюте, справа - лес хуев, слева - море говна. Куда будешь садиться?Ответ: В каждом лесу есть поляна, а в каждом море - островок.
+r Ты упал в яму. В яме пирожок и хуй. Что съешь, что в жопу засунешь?Ответ: Возьму пирожок и вылезу из ямы.
+r В жопу дашь или мать продашь?Ответ: Жопа не дается, мать не продаётся.
+r Вопрос в лоб: Вилкой в глаз или в жопу раз?Ответ: А на зоне вилок нету.Ответ №2: Что-то я здесь одноглазых не вижу.
+r Что сьешь - мыло со стола или хлеб с параши?Ответ: Стол не мыльница, параша не хлебница.
+r Ты с кентом идешь по пустыне Сахаре. На расстоянии ста километров нет ни жилья, ни населенных пунктов, никого и ничего, кроме песка. Вдруг выползает ядовитая змея, бросается на кента и кусает его за хуй. Что делать будешь?Ответ: Если у кента залупа выше колена, то змея не достанет. Если ниже - то он сам отсосет.Ответ №2: Сегодня кент, а завтра мент.
+r Ты едешь в поезде, прикованный к рычагам, ими можно повернуть или влево, или вправо. Впереди развилка - справа мать к столбу привязана, слева кенты, человек десять. Куда свернешь, кого задавишь?Ответ: Сегодня кенты, а завтра менты.Ответ №2: на все загадки, приведенные выше: Проснусь.
+r Сидит зек на шконаре, открывают кормушку и дают баланду, хлеб сухой. Утром опять открывают кормушку и видят кости. Вопрос: откуда кости, если зек живой?Ответ: Кости игральные.
+r Жили были два петуха, одного ебли до обеда, а другого после обеда, кому было хуже?Ответ: У кого очко уже тому и хуже.
+r Рисуют на стене футбольные ворота, а на полу мяч. Говорят забить гол. Что будешь делать?Ответ: Попроси дать пас.
+r Тебе дают в руки веник и говорят: "Сыграй на гитаре что-нибудь". Что будешь делать?Ответ: Отдай веник со словами "А ты настрой сначала"
+r Бутылку разбивают и говорят: "Зашей". Что будешь делать?Ответ: Попроси вывернуть наизнанку.
+a Волк может отгрызть себе жопу чтобы не стать петухом. А может не отгрызть.
+a В этой жизни ты либо волк, либо не волк.
+a Запомните волчья ягода не из волков.
+a Волк слабее льва и тигра, но в цирке не выступает.
+a Лучше быть последним — первым, чем первым — последним.
+a Каждый в цирке думает, что знает в цирке, но не каждый, что в цирке знает, что в цирке не каждый знает думает.
+a Кем бы ты ни был, кем бы ты не стал, помни, где ты был и кем ты стал.
+a Расстояний не надо бояться, надо бояться обосраться.
+e CAACAgIAAxkBAAEBI-ZlDAV4nQNiWQxocbT5DlDaaVrbtgACVRQAAq-v4Eu0XbMbsysJNTAE
+e CAACAgIAAxkBAAEBI-hlDAWGokt5QUFuj9kXqIUZ705vOQACthMAAvA34EtZZ30kVAeANjAE
+e CAACAgIAAxkBAAEBI-plDAWID8HFcVHE16UKAAENjmcVD5kAAsgTAALcLeFLOQHej3vHQVEwBA
+e CAACAgIAAxkBAAEBI-xlDAWKS8rWGwlwqVmOCDgB-1JH3QACsRUAAq6r4UupJcwI9YHWPDAE
+e CAACAgIAAxkBAAEBI-5lDAWNrBlN5s7cok-S5ForRema-AACPhQAAi_x4Uvr73c65dCW4TAE
+e CAACAgIAAxkBAAEBI_xlDAWw6-UgVi8VsuOj9BCb2J4ffgAC0RcAAttP4Usdylzw83Em4DAE
+e CAACAgIAAxkBAAEBI_5lDAWzPkjPCVudQ_bCHWKoYaICpwACdxQAAhrM4EsbGJ7bFvX6mzAE
+e CAACAgIAAxkBAAEBJAABZQwFur3fJ1xvPwbjWxnDj17q6PcAApgTAAJWQ-BLvQggryUmQs8wBA
+e CAACAgIAAxkBAAEBJAJlDAW8EYCL0XiH5NLYuaX8dZ4H8wACMBYAAnAb4Utv_tcAAau53SUwBA
+e CAACAgIAAxkBAAEBJARlDAW-UZH0UKxNLAXWupjarW5IBgACKxAAAgaL6EtP8cmqyT0UWTAE
+e CAACAgIAAxkBAAEBJAZlDAW_HMRRjablgODNjR8QYrnSQAACYxAAAhDR6EvJRhXfqdzyCjAE
+e CAACAgIAAxkBAAEBJAplDAXBLnA0ejbnKurISlLiO9LrgwACdhEAAn-c6EttQdZ76nlXkTAE
+e CAACAgIAAxkBAAEBJAxlDAXC9REBdlqTEzYYdBN3uYV6fgAClxIAAhez6UvagV_X_ocdHzAE
+e CAACAgIAAxkBAAEBJA5lDAXDjRwc7IdLbs-dbgLBj-JvRAACNxIAAobj8EugBz-8pRQlvTAE
+e CAACAgIAAxkBAAEBJBJlDAXHFhmh68f5mvbmVUnUmOjKIgACpRkAAg_pEEgmt2fJWMR8oDAE
+e CAACAgIAAxkBAAEBJBZlDAXKltqhbqEiepv4SWsP5UOrLAACihUAAodYEEjYN11UkokM3TAE
+e CAACAgIAAxkBAAEBJBhlDAXM39_qxdkgoOzw8nKF_Q0zCgACnxUAAplUIEhNnW6o70mlzzAE
+e CAACAgIAAxkBAAEBJBplDAXNrg6zmZpcGY8LTV29B3qzSAACiREAAm_mOEhPIrbaYDxubTAE
+e CAACAgIAAxkBAAEBJBxlDAXPNKFfXHk5V0eVS5kEHoDQ4QAC8hYAAvBSQUirhY00hOKhvjAE
+e CAACAgIAAxkBAAEBJB5lDAXQAAEmyERdLzJ268TqquAbD-sAAnAYAAK_s0hIwySVpg5rHTswBA
+e CAACAgIAAxkBAAEBJCBlDAXS-nak0ZCHMxtI8QpkBGxZyAAC7BkAAsdiWEioxBs32lCwzDAE
+e CAACAgIAAxkBAAEBJCFlDAXSBGsFgLZp1mplojmoQ4kyWAAC4xUAAmrhYEgFm-dA1DlMZDAE
+e CAACAgIAAxkBAAEBJCRlDAXU-qO9bhqZt152AZCJsFcJZQACohMAAix3eUiXisTwhyuvDzAE
+e CAACAgIAAxkBAAEBJCZlDAXWBKwxApe4BHnKAo0DBE952AAC9RQAAlQQYUi46L_4XMAonjAE
+e CAACAgIAAxkBAAEBJChlDAXaUgdrw_dxy7NUrE6G9TIBqAACfxUAApelcUjnOIYl6YSe4DAE
+e CAACAgIAAxkBAAEBJCxlDAXfB70KD3SQ-F8Ey0tKNBV6rwACDhIAAgiS4EhOkmgesQAB6LEwBA
+e CAACAgIAAxkBAAEBJC5lDAXigy76IWpfD7CGUBmKCh3CcAACcBQAArNu6Ehfk3EzH5et-zAE
+e CAACAgIAAxkBAAEBJDBlDAXt16-qLeeTt4XUNW3FMsKAHgACdxYAAom-8UjINekbBQ5LwjAE
+w CAACAgIAAxkBAAECDvllW3LjLGKQEK584YSZpYzt-CheTAACERQAAqAAAehLhynfNnamXaEzBA
+w CAACAgIAAxkBAAECDvtlW3LkYcBLkvWuj-xSqQQ03NjGZgACPBUAAgWm4EshkowGITyUEjME
+w CAACAgIAAxkBAAECDv1lW3LncvLHlRDyIJlvKw-cZNd_EwACKBYAAi8x4UvsAnm5hTjEHTME
+w CAACAgIAAxkBAAECDv9lW3Lov_KyRspAE-59BOKCs_FFHgAC5xIAAu-S6EvY9IfRXkZ-LDME
+w CAACAgIAAxkBAAECDwFlW3LrF4n1jdBpiDMK0BJwvDCTLQACthMAAj836UveLP8TsUC1LzME
+w CAACAgIAAxkBAAECDwNlW3LxJ_JQr3od-yvyGxM31xRBnwACBxMAAgNK4Uv61FIkHS6iFjME
+w CAACAgIAAxkBAAECDwdlW3M7TQ6zEKBXFywEpYXy89HFYwACRCkAArsWuUt-j3LFqCjHRzME
+w CAACAgIAAxkBAAECDwllW3NAso0QTUHKFZi3q1gC0cPu3AACHScAAszPwUswqt5mm8uISTME
+w CAACAgIAAxkBAAECDwtlW3NQya8nQj950TolG7YQnJjBCgACWRUAAjlNOEq75YNxjFcoNzME
+w CAACAgIAAxkBAAECDw1lW3Na5RpAooCG5fjUWpwooSeRJwAClBsAApngyEp67FOO_tH2zTME
+w CAACAgIAAxkBAAECDw9lW3NlIi4TsR1PSImDFy22Lp_tUAACKBYAAi8x4UvsAnm5hTjEHTME
+w CAACAgIAAxkBAAECDxFlW3N7As9-esZ-JqNflWa0yO-8oQACPBUAAgWm4EshkowGITyUEjME
+w CAACAgIAAxkBAAECDxJlW3N7kvHsV40qkXgS8zUmFbZYQwACBxMAAgNK4Uv61FIkHS6iFjME
+w CAACAgIAAxkBAAECDxNlW3N7y66sYLRlrn9cCceUfpXJHwACBx8AAo0FMUqCWSibJqb7ZjME
+w CAACAgIAAxkBAAECDxRlW3N7OGRD-dUeGYP4nCuErSH4WAAClTIAAvuXKEitWqTov4BzHTME
+w CAACAgIAAxkBAAECDxVlW3N7MBhugwwp1zh3J8TcGS2yjAACzxQAAhvpOErlciQrzbmiOzME
+w CAACAgIAAxkBAAECDxZlW3N70mj6WMBmcnlw3MKoHa4sbQACXxMAAi5eyEvZq78wYISWMzME
+c CAACAgIAAxkBAAECFpNlXa5kRF2TwGWCksDyz8H8Huu06wAC2hkAArbxgUlo62Z3_eITETME
+c CAACAgIAAxkBAAECFpRlXa5koheaVWFYWwOX8pXrxcm6lQACaioAAszmcUuzNWj1qQLBiTME
+c CAACAgIAAxkBAAECFqplXbIe6AXu1EPOJz9vj899K7f0wwACERQAAqAAAehLhynfNnamXaEzBA
+c CAACAgIAAxkBAAECFqtlXbIehLJ7yLr3dPwgEPyQG783WQAC6R4AAmAnyUoenQIOEDXswTME
+c CAACAgIAAxkBAAECFqxlXbIeeB9mikKZgzEPQTxThwGKggACjzIAAv3VOUrW7BM-v5NfWTME
+c CAACAgIAAxkBAAECFq1lXbIex_QxSpA4Y3PDnJ--EDIoFgACczEAAoz5OEp7YC2-vP-VljME
+n CAACAgIAAxkBAAECFsxlXbhWtMrshbPKK6hcKwa7C0zScQACCBYAAnoOOEgjOv-ctXaamjME
+e CAACAgIAAxkBAAECSotlbuoZmkgWz0cE4FanEKTvWK-Z-QACcBgAAr-zSEjDJJWmDmsdOzME
+e CAACAgIAAxkBAAECSollbuoT3tYSOXgI70RsmtJB3-wRZAAC7hQAAgaWWUiAm0N-wCksBDME
+e CAACAgIAAxkBAAECSodlbunsOs-DjX82z60iZhTlAAFUgxkAAh5DAAJ_vXBLg78fwlNCZZYzBA
+s CAACAgIAAxkBAAECSoVlbunhcWFu-oxIKdzipsPQn-urlAAC8QADEow3Fl-ooFPMcznNMwQ
+e CAACAgIAAxkBAAECSoVlbunhcWFu-oxIKdzipsPQn-urlAAC8QADEow3Fl-ooFPMcznNMwQ
+e CAACAgIAAxkBAAECSoFlbunN9PvClRsF99t11nqNDm36igAC3BMAApUjCEllpiSaAbKkgDME
+e CAACAgIAAxkBAAECSoBlbunNCVnRSx_bLNUmA8_KTWwylgACyhoAAp0beEpJzFKMVlpeGDME
+s CAACAgIAAxkBAAECSoBlbunNCVnRSx_bLNUmA8_KTWwylgACyhoAAp0beEpJzFKMVlpeGDME
+e CAACAgIAAxkBAAECSn9lbunNw4r1HSdoMyqJ17UMwFSzVAACwhUAAmSzAAFIqXsgNgiekSEzBA
+e CAACAgIAAxkBAAECSn1lbunDkFWVeekfiPJN_UWYSiYnDQACES4AAtSbAAFIeWzcdQXyBQUzBA
+e CAACAgIAAxkBAAECSntlbumi-0ws2GqspxIj2RIu7e2G9gACSS4AAu7GAUgELj8GxK_DAjME
+e CAACAgIAAxkBAAECSpNlburDIgsxnzcz7PDkqTa1gJe8pgAC9xQAAo83aEi6Ce8S4AABb_0zBA
+e CAACAgIAAxkBAAECSpVlburUwqC0YDDcK5wdVPVL8zpHGgACqhUAAlO4AAFJ0n9IxI7G_dQzBA
+e CAACAgIAAxkBAAECSpdlburoqic91P03-sQh7-WJRTNqiwAC8xIAAtmV8EsuqzAYOVfCxDME
+e CAACAgIAAxkBAAECSpllbur4pdpheFlaJVbsinvCf1nPgwACihUAAodYEEjYN11UkokM3TME
+e CAACAgIAAxkBAAECSp9lbusjNtRO32bfkMUQldyUSDwd4gACdxYAAom-8UjINekbBQ5LwjME
